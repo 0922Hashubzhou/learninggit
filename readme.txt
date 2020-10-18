@@ -5,3 +5,4 @@ Git tracks changes of files.
 Branch test.
 Today is 10.18.2020.
 Creating a new branch is quick and simple.
+Merge test.
